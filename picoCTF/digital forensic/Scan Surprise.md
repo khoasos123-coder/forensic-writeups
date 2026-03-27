@@ -11,7 +11,7 @@ Bash
 
 `wget <URL_from_picoCTF>`
 
-##2️⃣ Extract the Zip File
+## 2️⃣ Extract the Zip File
 
 * Use the unzip command to extract the contents of the downloaded file:
   
@@ -46,7 +46,7 @@ Bash
 `zbarimg flag.png`
 
 
-###🚩 Flag
+### 🚩 Flag
 
 *After running the command, the terminal will display the decoded text:
 
