@@ -48,6 +48,6 @@ Bash
 
 ### 🚩 Flag
 
-*After running the command, the terminal will display the decoded text:
+* After running the command, the terminal will display the decoded text:
 
 > picoCTF{4n_0pt1c4l_5urpr153_73225212}
